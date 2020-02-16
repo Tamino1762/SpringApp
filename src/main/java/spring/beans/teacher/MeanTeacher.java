@@ -37,4 +37,7 @@ public class MeanTeacher implements Teacher {
 
     public void setInstrument(String instrument) {
     }
+
+    public void setIndifferentCommentService(IndifferentCommentService indifferentCommentService) {
+    }
 }

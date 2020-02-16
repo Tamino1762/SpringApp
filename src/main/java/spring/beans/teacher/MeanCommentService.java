@@ -6,7 +6,7 @@ public class MeanCommentService implements CommentService {
 
     @Override
     public String getComment() {
-        return "Practice harder! >:| *Fist shake*";
+        return " 'Practice harder!' >:| *Fist shake*";
     }
 
     public void setInstrument(String instrument) {

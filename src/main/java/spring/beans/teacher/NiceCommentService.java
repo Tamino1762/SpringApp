@@ -6,7 +6,7 @@ public class NiceCommentService implements CommentService {
 
     @Override
     public String getComment() {
-        return "Greatjob! :D ";
+        return " 'Great job!' :D ";
     }
 
     public void setNiceCommentService(NiceCommentService niceCommentService) {
